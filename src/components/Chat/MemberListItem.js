@@ -27,6 +27,10 @@ const StyledMember = styled.div`
     .username {
       color: ${props => props.color || colors.memberUsernameOnline};
       font-size: 1em;
+      white-space: nowrap;
+      overflow: hidden;
+      max-width: 160px;
+      text-overflow: ellipsis;
     }
 
     .status {
