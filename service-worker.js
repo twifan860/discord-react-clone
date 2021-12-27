@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/discord-react-clone/precache-manifest.a8bc46a4cdcf8c7a8cb882a541952d42.js"
+  "/discord-react-clone/precache-manifest.c91153c15dfc5ca305a7e15bc082de06.js"
 );
 
 workbox.clientsClaim();

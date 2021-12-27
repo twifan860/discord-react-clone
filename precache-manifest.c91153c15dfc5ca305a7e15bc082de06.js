@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/discord-react-clone/static/js/runtime~main.6049f8d7.js"
   },
   {
-    "revision": "f4c5546b3eac85700ea9",
-    "url": "/discord-react-clone/static/js/main.f4c5546b.chunk.js"
+    "revision": "f8d3664b3f4c5ae0ea4a",
+    "url": "/discord-react-clone/static/js/main.f8d3664b.chunk.js"
   },
   {
     "revision": "69d99dab67597d136353",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/discord-react-clone/static/css/1.03a46144.chunk.css"
   },
   {
-    "revision": "104b00129a849bb788b81381b61b939b",
+    "revision": "c2324a1c86b504889f56069188bc6fb6",
     "url": "/discord-react-clone/index.html"
   }
 ];
