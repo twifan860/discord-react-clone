@@ -162,7 +162,7 @@ def overall_json(splitted, username_map):
             # because this project doesn't work with empty array
             {
               "id": 333,
-              "userId": 2,
+              "userId": username_map.get("Witch A"),
               "messages": [get_single_msg("Witch A", "Please don’t kill me :<", username_map)]
             }
         ],

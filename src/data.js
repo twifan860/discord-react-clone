@@ -4,11 +4,11 @@ export default {
     "directMessages": [
         {
             "id": 333,
-            "userId": 2,
+            "userId": 49,
             "messages": [
                 {
                     "id": 2887,
-                    "userId": 22,
+                    "userId": 49,
                     "content": "Please don\u2019t kill me :<",
                     "time": "Today at 5:17 PM"
                 }
@@ -29,399 +29,399 @@ export default {
         },
         2: {
             "id": 2,
-            "username": "Windy Girl",
-            "tag": 9985,
-            "avatar": "https://twifanart.shelter.moe/_images/fc0d1224d4967909ecf2d043190d6c53/"
+            "username": "Viscount Visophecin",
+            "tag": 7908,
+            "avatar": "discordblue.png"
         },
         3: {
             "id": 3,
-            "username": "Saliss",
-            "tag": 3563,
+            "username": "SALISS",
+            "tag": 7514,
             "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         4: {
             "id": 4,
-            "username": "jort2003",
-            "tag": 1338,
+            "username": "The Mage\u2019s Guild of Exalted Khelt With Great Apologies to His Exalted Majesty",
+            "tag": 9949,
             "avatar": "discordblue.png"
         },
         5: {
             "id": 5,
-            "username": "Queen R",
-            "tag": 9557,
+            "username": "Researcher Dromenl",
+            "tag": 1672,
             "avatar": "discordblue.png"
         },
         6: {
             "id": 6,
-            "username": "Grand Magus Eldavin",
-            "tag": 7026,
-            "avatar": "discordblue.png"
+            "username": "Joseph Ortega",
+            "tag": 6759,
+            "avatar": "https://twifanart.shelter.moe/_images/9745e6d3127bdf747e4c9b8cbc0a3967/"
         },
         7: {
             "id": 7,
-            "username": "THAT DRAKE WITH THE POTIONS",
-            "tag": 7173,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Rhis",
+            "tag": 5387,
+            "avatar": "https://twifanart.shelter.moe/_images/4c88bda9af1c955707538488e8a91b48/"
         },
         8: {
             "id": 8,
-            "username": "Joseph Ortega",
-            "tag": 3170,
-            "avatar": "https://twifanart.shelter.moe/_images/9745e6d3127bdf747e4c9b8cbc0a3967/"
+            "username": "Cryomancer Ulea",
+            "tag": 7853,
+            "avatar": "discordblue.png"
         },
         9: {
             "id": 9,
-            "username": "GSNF",
-            "tag": 1683,
-            "avatar": "discordblue.png"
+            "username": "True Grit",
+            "tag": 1839,
+            "avatar": "https://twifanart.shelter.moe/_images/0d8169da2c0d8d6d8848bb972706a0ea/"
         },
         10: {
             "id": 10,
-            "username": "Wistram",
-            "tag": 5419,
-            "avatar": "https://twifanart.shelter.moe/_images/56c234dfd5b0f7457bf2a24edb414611/"
+            "username": "Eldavin",
+            "tag": 8620,
+            "avatar": "https://twifanart.shelter.moe/_images/32c32fe557c5a58b7ce6ec5a8dca6c4e/"
         },
         11: {
             "id": 11,
-            "username": "Golden Gnoll",
-            "tag": 6975,
-            "avatar": "discordblue.png"
+            "username": "Viscount V",
+            "tag": 6250,
+            "avatar": "https://twifanart.shelter.moe/_images/9b64e45389429a09892111951ab55658/"
         },
         12: {
             "id": 12,
-            "username": "True Grit",
-            "tag": 7111,
-            "avatar": "https://twifanart.shelter.moe/_images/0d8169da2c0d8d6d8848bb972706a0ea/"
+            "username": "Ailendamus",
+            "tag": 8092,
+            "avatar": "discordblue.png"
         },
         13: {
             "id": 13,
-            "username": "Mri",
-            "tag": 4279,
-            "avatar": "https://twifanart.shelter.moe/_images/e2d726c90cd9908bcf6d042c728df49b/"
+            "username": "NAMED ADVENTURER SALISS",
+            "tag": 7528,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         14: {
             "id": 14,
-            "username": "Viscount Visophecin of Ailendamus",
-            "tag": 9785,
+            "username": "Alchemist I",
+            "tag": 5636,
             "avatar": "discordblue.png"
         },
         15: {
             "id": 15,
-            "username": "Mons",
-            "tag": 3724,
-            "avatar": "https://twifanart.shelter.moe/_images/9ed343644ea0e255214dd265ba5f464a/"
+            "username": "Krshia Silverfang",
+            "tag": 4206,
+            "avatar": "discordblue.png"
         },
         16: {
             "id": 16,
-            "username": "Yvlon",
-            "tag": 1245,
-            "avatar": "https://twifanart.shelter.moe/_images/4355d45ca829b9e0cf994a62c6944690/"
+            "username": "Vizir Hecrelunn of Khelt Eternal, In Service to Her Majesty, Khelta, Undisputed of His Class, Steward of the Lands Claimed by Undeath",
+            "tag": 6447,
+            "avatar": "discordblue.png"
         },
         17: {
             "id": 17,
-            "username": "Sandquen",
-            "tag": 8953,
+            "username": "Hecrelunn",
+            "tag": 2918,
             "avatar": "discordblue.png"
         },
         18: {
             "id": 18,
-            "username": "ArchmageV",
-            "tag": 6542,
+            "username": "Great Sage of Nerrhavia\u2019s Fallen",
+            "tag": 1678,
             "avatar": "discordblue.png"
         },
         19: {
             "id": 19,
-            "username": "Visophecin V",
-            "tag": 3902,
-            "avatar": "discordblue.png"
+            "username": "YlawesB",
+            "tag": 6847,
+            "avatar": "https://twifanart.shelter.moe/_images/9c97116d758d356b18395d96b0b32aec/"
         },
         20: {
             "id": 20,
-            "username": "Tallman",
-            "tag": 2481,
-            "avatar": "https://twifanart.shelter.moe/_images/1594286f701d2086b80fff83c63e753c/"
+            "username": "Sandquen",
+            "tag": 7659,
+            "avatar": "discordblue.png"
         },
         21: {
             "id": 21,
-            "username": "G\u0336S\u0336F\u0336N\u0336 GSNF",
-            "tag": 6932,
-            "avatar": "discordblue.png"
+            "username": "Belavierr",
+            "tag": 3405,
+            "avatar": "https://twifanart.shelter.moe/_images/d036889c6c7d7822f4f504e8f8d71fc7/"
         },
         22: {
             "id": 22,
-            "username": "Witch A",
-            "tag": 5284,
-            "avatar": "https://twifanart.shelter.moe/_images/dfa0686baf6f5e78f449fe217713c454/"
+            "username": "GSNF (Great Sage of Nerrhavia\u2019s Fallen)",
+            "tag": 3918,
+            "avatar": "discordblue.png"
         },
         23: {
             "id": 23,
-            "username": "V",
-            "tag": 1945,
+            "username": "Krshia",
+            "tag": 9702,
             "avatar": "discordblue.png"
         },
         24: {
             "id": 24,
-            "username": "Magus G",
-            "tag": 9997,
-            "avatar": "https://twifanart.shelter.moe/_images/9ab8bd7751f02f3da4b75a8b50416045/"
+            "username": "Sal-iss",
+            "tag": 9538,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         25: {
             "id": 25,
-            "username": "Eldavin",
-            "tag": 4598,
-            "avatar": "https://twifanart.shelter.moe/_images/32c32fe557c5a58b7ce6ec5a8dca6c4e/"
+            "username": "Mons",
+            "tag": 7355,
+            "avatar": "https://twifanart.shelter.moe/_images/9ed343644ea0e255214dd265ba5f464a/"
         },
         26: {
             "id": 26,
-            "username": "Rhis",
-            "tag": 8056,
-            "avatar": "https://twifanart.shelter.moe/_images/4c88bda9af1c955707538488e8a91b48/"
+            "username": "Anonymous Spellcaster A",
+            "tag": 2595,
+            "avatar": "https://twifanart.shelter.moe/_images/84c3ac29328c127cb77aa815de5cef27/"
         },
         27: {
             "id": 27,
-            "username": "Hecrelunn",
-            "tag": 5524,
+            "username": "The Mage\u2019s Guild of Exalted Khelt",
+            "tag": 1103,
             "avatar": "discordblue.png"
         },
         28: {
             "id": 28,
-            "username": "SALISS",
-            "tag": 2609,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Magus G",
+            "tag": 1554,
+            "avatar": "https://twifanart.shelter.moe/_images/9ab8bd7751f02f3da4b75a8b50416045/"
         },
         29: {
             "id": 29,
-            "username": "S.A.L.I.S.S",
-            "tag": 8760,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Vizir Hecrelunn, The Fire of Khelt\u2019s Wrath, Face of the Limitless Armies of Khelta, Empowered of the Servants of Chandrar",
+            "tag": 6756,
+            "avatar": "discordblue.png"
         },
         30: {
             "id": 30,
-            "username": "VizirH",
-            "tag": 8233,
-            "avatar": "discordblue.png"
+            "username": "Tallman",
+            "tag": 5778,
+            "avatar": "https://twifanart.shelter.moe/_images/1594286f701d2086b80fff83c63e753c/"
         },
         31: {
             "id": 31,
-            "username": "Fetohep of Khelt",
-            "tag": 8334,
-            "avatar": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/"
+            "username": "The Mage\u2019s Guild of Eternal Khelt",
+            "tag": 4894,
+            "avatar": "discordblue.png"
         },
         32: {
             "id": 32,
-            "username": "Lionette",
-            "tag": 9739,
-            "avatar": "https://twifanart.shelter.moe/_images/dca74c85b5ff66905b181e8a36ae64ca/"
+            "username": "Grand Magus Eldavin",
+            "tag": 3890,
+            "avatar": "discordblue.png"
         },
         33: {
             "id": 33,
-            "username": "Krshia",
-            "tag": 3090,
-            "avatar": "discordblue.png"
+            "username": "Saliss of Lights",
+            "tag": 7906,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         34: {
             "id": 34,
-            "username": "Belavierr",
-            "tag": 5146,
-            "avatar": "https://twifanart.shelter.moe/_images/d036889c6c7d7822f4f504e8f8d71fc7/"
+            "username": "Fetohep",
+            "tag": 2249,
+            "avatar": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/"
         },
         35: {
             "id": 35,
-            "username": "Ice Squirrel",
-            "tag": 5638,
-            "avatar": "https://twifanart.shelter.moe/_images/9bb5a9cbef2100aac45403f8a65aa9da/"
+            "username": "GSNF",
+            "tag": 3931,
+            "avatar": "discordblue.png"
         },
         36: {
             "id": 36,
-            "username": "NAMED ADVENTURER SALISS",
-            "tag": 4987,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Archmage V",
+            "tag": 9169,
+            "avatar": "discordblue.png"
         },
         37: {
             "id": 37,
-            "username": "The Mage\u2019s Guild of Eternal Khelt",
-            "tag": 8165,
-            "avatar": "discordblue.png"
+            "username": "Wistram",
+            "tag": 5427,
+            "avatar": "https://twifanart.shelter.moe/_images/56c234dfd5b0f7457bf2a24edb414611/"
         },
         38: {
             "id": 38,
-            "username": "Cryomancer Ulea",
-            "tag": 7299,
+            "username": "Researcher Dromenl, Oteslia",
+            "tag": 7773,
             "avatar": "discordblue.png"
         },
         39: {
             "id": 39,
-            "username": "Great Sage of Nerrhavia\u2019s Fallen",
-            "tag": 4007,
-            "avatar": "discordblue.png"
+            "username": "SAAAALIIISSSS",
+            "tag": 1375,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         40: {
             "id": 40,
-            "username": "Vizir Hecrelunn of Khelt Eternal, In Service to Her Majesty, Khelta, Undisputed of His Class, Steward of the Lands Claimed by Undeath",
-            "tag": 4474,
-            "avatar": "discordblue.png"
+            "username": "Not Saliss",
+            "tag": 9964,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         41: {
             "id": 41,
-            "username": "Krshia Silverfang",
-            "tag": 3675,
-            "avatar": "discordblue.png"
+            "username": "Mri",
+            "tag": 7199,
+            "avatar": "https://twifanart.shelter.moe/_images/e2d726c90cd9908bcf6d042c728df49b/"
         },
         42: {
             "id": 42,
-            "username": "Sal-iss",
-            "tag": 8428,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Windy Girl",
+            "tag": 9323,
+            "avatar": "https://twifanart.shelter.moe/_images/fc0d1224d4967909ecf2d043190d6c53/"
         },
         43: {
             "id": 43,
-            "username": "Viscount Visophecin",
-            "tag": 5283,
+            "username": "Beard Lad",
+            "tag": 3226,
             "avatar": "discordblue.png"
         },
         44: {
             "id": 44,
-            "username": "Ilvriss",
-            "tag": 3492,
-            "avatar": "discordblue.png"
+            "username": "Lionette",
+            "tag": 9033,
+            "avatar": "https://twifanart.shelter.moe/_images/dca74c85b5ff66905b181e8a36ae64ca/"
         },
         45: {
             "id": 45,
-            "username": "Researcher Dromenl",
-            "tag": 2484,
+            "username": "ArchmageV",
+            "tag": 8581,
             "avatar": "discordblue.png"
         },
         46: {
             "id": 46,
-            "username": "Archmage V",
-            "tag": 9489,
+            "username": "TMGEK",
+            "tag": 9087,
             "avatar": "discordblue.png"
         },
         47: {
             "id": 47,
-            "username": "Ailendamus",
-            "tag": 1632,
-            "avatar": "discordblue.png"
+            "username": "THAT DRAKE WITH THE POTIONS",
+            "tag": 5434,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         48: {
             "id": 48,
-            "username": "SAAAALIIISSSS",
-            "tag": 6687,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Ice Squirrel",
+            "tag": 6967,
+            "avatar": "https://twifanart.shelter.moe/_images/9bb5a9cbef2100aac45403f8a65aa9da/"
         },
         49: {
             "id": 49,
-            "username": "Wall Lord Ilvriss",
-            "tag": 2861,
-            "avatar": "https://twifanart.shelter.moe/_images/57876dab4e8864df970e0fca5ea1cc17/"
+            "username": "Witch A",
+            "tag": 1203,
+            "avatar": "https://twifanart.shelter.moe/_images/dfa0686baf6f5e78f449fe217713c454/"
         },
         50: {
             "id": 50,
-            "username": "Anonymous Spellcaster A",
-            "tag": 9126,
-            "avatar": "https://twifanart.shelter.moe/_images/84c3ac29328c127cb77aa815de5cef27/"
+            "username": "Fetohep of Khelt",
+            "tag": 3372,
+            "avatar": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/"
         },
         51: {
             "id": 51,
-            "username": "Hecrelunn, Vizir",
-            "tag": 4940,
+            "username": "jort2003",
+            "tag": 9281,
             "avatar": "discordblue.png"
         },
         52: {
             "id": 52,
-            "username": "Researcher Dromenl, Oteslia",
-            "tag": 1189,
+            "username": "Ilvriss",
+            "tag": 2707,
             "avatar": "discordblue.png"
         },
         53: {
             "id": 53,
-            "username": "Magus Grimalkin, Pallass",
-            "tag": 8483,
+            "username": "VizirH",
+            "tag": 9195,
             "avatar": "discordblue.png"
         },
         54: {
             "id": 54,
-            "username": "Beard Lad",
-            "tag": 3500,
-            "avatar": "discordblue.png"
+            "username": "Geneva",
+            "tag": 2315,
+            "avatar": "https://twifanart.shelter.moe/_images/77a32074005ab64aba533ca79eab690a/"
         },
         55: {
             "id": 55,
-            "username": "Geneva",
-            "tag": 5123,
-            "avatar": "https://twifanart.shelter.moe/_images/77a32074005ab64aba533ca79eab690a/"
+            "username": "Magus Grimalkin, Pallass",
+            "tag": 7094,
+            "avatar": "discordblue.png"
         },
         56: {
             "id": 56,
-            "username": "Fetohep",
-            "tag": 5445,
-            "avatar": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/"
+            "username": "Wall Lord Ilvriss",
+            "tag": 1888,
+            "avatar": "https://twifanart.shelter.moe/_images/57876dab4e8864df970e0fca5ea1cc17/"
         },
         57: {
             "id": 57,
-            "username": "GSNF (Great Sage of Nerrhavia\u2019s Fallen)",
-            "tag": 6309,
-            "avatar": "discordblue.png"
+            "username": "S.A.L.I.S.S",
+            "tag": 5577,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         58: {
             "id": 58,
-            "username": "The Mage\u2019s Guild of Exalted Khelt With Great Apologies to His Exalted Majesty",
-            "tag": 7825,
+            "username": "Queen R",
+            "tag": 9129,
             "avatar": "discordblue.png"
         },
         59: {
             "id": 59,
-            "username": "Vizir Hecrelunn, The Fire of Khelt\u2019s Wrath, Face of the Limitless Armies of Khelta, Empowered of the Servants of Chandrar",
-            "tag": 3010,
-            "avatar": "discordblue.png"
+            "username": "Saliss",
+            "tag": 9096,
+            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
         },
         60: {
             "id": 60,
-            "username": "The Mage\u2019s Guild of Exalted Khelt",
-            "tag": 6833,
+            "username": "Hecrelunn, Vizir",
+            "tag": 7754,
             "avatar": "discordblue.png"
         },
         61: {
             "id": 61,
-            "username": "Viscount V",
-            "tag": 1603,
-            "avatar": "https://twifanart.shelter.moe/_images/9b64e45389429a09892111951ab55658/"
+            "username": "Visophecin V",
+            "tag": 1097,
+            "avatar": "discordblue.png"
         },
         62: {
             "id": 62,
-            "username": "YlawesB",
-            "tag": 6344,
-            "avatar": "https://twifanart.shelter.moe/_images/9c97116d758d356b18395d96b0b32aec/"
+            "username": "G\u0336S\u0336F\u0336N\u0336 GSNF",
+            "tag": 7276,
+            "avatar": "discordblue.png"
         },
         63: {
             "id": 63,
-            "username": "TMGEK",
-            "tag": 4529,
+            "username": "Golden Gnoll",
+            "tag": 5086,
             "avatar": "discordblue.png"
         },
         64: {
             "id": 64,
-            "username": "Saliss of Lights",
-            "tag": 4305,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "Yvlon",
+            "tag": 2452,
+            "avatar": "https://twifanart.shelter.moe/_images/4355d45ca829b9e0cf994a62c6944690/"
         },
         65: {
             "id": 65,
-            "username": "Alchemist I",
-            "tag": 4915,
-            "avatar": "discordblue.png"
+            "username": "RainyEarl",
+            "tag": 8979,
+            "avatar": "https://twifanart.shelter.moe/_images/a6c0ced0b75f6e871e24f4e4c9b02199/"
         },
         66: {
             "id": 66,
-            "username": "RainyEarl",
-            "tag": 2590,
-            "avatar": "https://twifanart.shelter.moe/_images/a6c0ced0b75f6e871e24f4e4c9b02199/"
+            "username": "Viscount Visophecin of Ailendamus",
+            "tag": 6566,
+            "avatar": "discordblue.png"
         },
         67: {
             "id": 67,
-            "username": "Not Saliss",
-            "tag": 7484,
-            "avatar": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/"
+            "username": "V",
+            "tag": 4006,
+            "avatar": "discordblue.png"
         }
     },
     "guilds": [
@@ -6820,67 +6820,67 @@ export default {
                                 },
                                 {
                                     "id": 3951,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I don\u2019t have time for that. Kindly inform His Majesty or whomever is leading this project I am willing to devote my time and effort to this issue, but I would like to communicate with someone who can speak to me on the issue at hand.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3952,
-                                    "userId": 60,
+                                    "userId": 27,
                                     "content": "The persons in question are currently occupied. The Mage\u2019s Guild will petition His Majesty for a response upon the approval of\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3953,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "That will take weeks. Please inform Fetohep of Khelt that Queen Yisame would like to forward this matter to his attention.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3954,
-                                    "userId": 60,
+                                    "userId": 27,
                                     "content": "\u2026As His Majesty is preoccupied with the rule of Khelt, the Mage\u2019s Guild will lodge a\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3955,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Queen Yisame will send His Majesty of Etc. Khelt a request to speak personally within the hour. In which, she may be displeased by the inconvenience of needing to intercede upon a simple request and highlight the issue. Your choice.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3956,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "Do not do that with great respect. We will immediately contact the palace. Please hold.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3957,
-                                    "userId": 21,
+                                    "userId": 62,
                                     "content": "Thank you. I would like this information now, with a direct line of [Messages] or speaking stone if one can be arranged.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3958,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "This may prove difficult. His Majesty has sealed the project\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3959,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Then please add that to his request. Also, put me in touch with the person in Oteslia who is heading this project.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3960,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "We are retrieving the name. Your contact is a \u2018Lionette Solstice\u2019, who is partially funding the project along with \u2018Saliss Oliwing\u2019, and the project\u2019s research and information belongs to a [Researcher] Dromenl of the Institute of Inquiry in\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3961,
-                                    "userId": 10,
+                                    "userId": 37,
                                     "content": "Hello! I see you are conducting a multiple [Message] spell program. Could I interest the participants in a new, multiple-[Message] spell connection at a nominal fee?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -6904,67 +6904,67 @@ export default {
                                 },
                                 {
                                     "id": 3965,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "What is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3966,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "There is no [Message] from Wistram inbound. Please hold\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3967,
-                                    "userId": 10,
+                                    "userId": 37,
                                     "content": "We see that Khelt\u2019s Mage\u2019s Guild is conducting multiple [Messages] on the same topic. If one of the recipients would like to trial our new system, please affirm with a \u2018YES\u2019. We will take that as a signal for consent and apply a slight surcharge of four silver and two copper for the entire trial period, as this magical system is in testing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3968,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Stop reading my private correspondence. This is Nerrhavia Fallen\u2019s business.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3969,
-                                    "userId": 10,
+                                    "userId": 37,
                                     "content": "We apologize for any intrusion. This is a generic message being written into every active conversation with multiple contacts.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3970,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Rhir\u2019s demon-infested hells it is. I am lodging a formal complaint. Who is the fool on the other end sending this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3971,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "Wistram, please desist with sending [Messages]. This is Khelt\u2019s confidential business.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3972,
-                                    "userId": 10,
+                                    "userId": 37,
                                     "content": "This is an automated message. Please disregard any intrusin into your conversations.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3973,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "You misspelled \u2018intrusion\u2019. Wistram can automate spells and I can use my tails to fly.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3974,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "You are an embarrassment to the Academy. Apologies. I am shutting down Wistram\u2019s end of this conversation. Prepare for [Multi-Message Link].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3975,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "That\u2019s an advanced ritual. Wistram can\u2019t just\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -6982,31 +6982,31 @@ export default {
                                 },
                                 {
                                     "id": 3978,
-                                    "userId": 47,
+                                    "userId": 12,
                                     "content": "I believe our conversation is being intruded upon.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3979,
-                                    "userId": 37,
+                                    "userId": 31,
                                     "content": "That is an unusual claim. Please verify. We are rechecking our connection.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3980,
-                                    "userId": 10,
+                                    "userId": 37,
                                     "content": "Hello! I see you are conducting a multiple [Message] spell program. Could I interest the participants in a new, multiple-[Message] spell connection at a nominal fee?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3981,
-                                    "userId": 47,
+                                    "userId": 12,
                                     "content": "I would like to lodge a formal complaint.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3982,
-                                    "userId": 37,
+                                    "userId": 31,
                                     "content": "We deeply apologize for\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -7036,325 +7036,325 @@ export default {
                                 },
                                 {
                                     "id": 3987,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "What happened? I was asking about the availability of Ghost Shrooms when the [Mage] at my guild started panicking. What is this? Is it Wistram?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3988,
-                                    "userId": 47,
+                                    "userId": 12,
                                     "content": "I believe this is a multi-[Message] link. Intriguing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3989,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Is this Lionette Solstice? Are you related to Erin Solstice?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3990,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Whoa.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3991,
-                                    "userId": 47,
+                                    "userId": 12,
                                     "content": "Lyon LIONETTE is that you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3992,
-                                    "userId": 47,
+                                    "userId": 12,
                                     "content": "Apologies, there are multiple individuals present. Please disregard.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3993,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Who is this, please? I am related to Erin Solstice, yes. I am her sister.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3994,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Erin Solstice has no sister. Who is this truly?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3995,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Ailendamus? Is that Ailendamus the nation? What\u2019s a GSNF?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3996,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I apologize for the misunderstanding. I am representing Ailendamus in inquiry to the cure regarding an \u2018Erin Solstice\u2019 and collaboration between Oteslia and Khelt.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3997,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Khelt is trying to cure Erin?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3998,
-                                    "userId": 37,
+                                    "userId": 31,
                                     "content": "We are deeply sorry for this misunderstanding and event. It appears the Academy of Wistram is employing a [Message]-altering spell via the magic linking us. We are unsure of how this is occurring and are trying to receive clarification.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 3999,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I would appreciate being taken\u2026off\u2026this spell, please. My information is confidential.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4000,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "As are my affairs. I intend to lodge a formal complaint with\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4001,
-                                    "userId": 28,
+                                    "userId": 3,
                                     "content": "THIS IS SO INTERESTING.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4002,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "What.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4003,
-                                    "userId": 57,
+                                    "userId": 22,
                                     "content": "Is that Named Adventurer Saliss of Lights?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4004,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Saliss? What are you doing? Where are you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4005,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Hello? I am inquiring about a cure for Erin Solstice. What is this, please? We are calling from the Mage\u2019s Guild of Anazuland. Very confused.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4006,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "This is entirely chaotic. Exalted Mage\u2019s Guild of Khelt. Upon resending a [Message] spell, I am re-looped into this [Message] chain. Will you send me the requested information at a later date?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4007,
-                                    "userId": 37,
+                                    "userId": 31,
                                     "content": "With greatest apologies, we are still contacting Wistram for a formal explanation.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4008,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Wait, is everyone inquiring into a cure for Erin?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4009,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Yes, it\u2019s me, Lionette.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4010,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Yes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4011,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Yes. Wistram is mucking things up. As usual.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4012,
-                                    "userId": 48,
+                                    "userId": 39,
                                     "content": "TELL ME WHEN THAT\u2019S NOT WISTRAM. HAH.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4013,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Why is that message appearing in capital letters? What is wrong with the name? What is going on? We are inquiring into a cure, yes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4014,
-                                    "userId": 63,
+                                    "userId": 46,
                                     "content": "Please hold, we are working on the issue.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4015,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Who? Oh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4016,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Who is this now?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4017,
-                                    "userId": 37,
+                                    "userId": 31,
                                     "content": "We are shortening our address to TMGEK for clarify.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4018,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "That is clarity?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4019,
-                                    "userId": 31,
+                                    "userId": 50,
                                     "content": "I am exceptionally displeased.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4020,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Oh wow.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4021,
-                                    "userId": 58,
+                                    "userId": 4,
                                     "content": "We are attempting to clarify the situation with\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4022,
-                                    "userId": 31,
+                                    "userId": 50,
                                     "content": "Enough. Desist. I will take this matter over myself. To all those present, I am King of Khelt, who oversees the project in regards to a cure for an individual known as Erin Solstice. Direct such inquiries unto me and\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4023,
-                                    "userId": 29,
+                                    "userId": 57,
                                     "content": "You\u2019re in charge? Who put you in charge?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4024,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Desist in your writing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4025,
-                                    "userId": 42,
+                                    "userId": 24,
                                     "content": "I didn\u2019t put you in charge.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4026,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Enough. You speak to the ruler of Exalted Khelt. Deference is required.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4027,
-                                    "userId": 67,
+                                    "userId": 40,
                                     "content": "Make me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4028,
-                                    "userId": 14,
+                                    "userId": 66,
                                     "content": "It is our extreme pleasure to tender our regards to His Majesty of Khelt, regardless of war or the circumstances. To the sand eternal, may Khelt reign.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4029,
-                                    "userId": 39,
+                                    "userId": 18,
                                     "content": "Greetings to Khelt. This is a disaster. Is Wistram just tossing around magic link spells? I don\u2019t need every conversation to be like the Arbitration Council.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4030,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I greet you, Viscount Visophecin and Sage Etrikah, to whom I believe I am writing. In regards to this conversation, it is my understanding that Wistram has ignorantly applied its magic to a similar interest. In regards to\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4031,
-                                    "userId": 7,
+                                    "userId": 47,
                                     "content": "HEY.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4032,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "\u2014the cure for Erin Solstice as first attempted by Oteslia. Khelt has funded and taken over.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4033,
-                                    "userId": 36,
+                                    "userId": 13,
                                     "content": "HEEEEEY~~",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4034,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Khelt has not taken over any project to my knowledge. I am Lionette, Erin\u2019s cousin. I am attempting to work on a cure. I am exceptionally willing talk to whomever may have information or aid regarding Erin Solstice.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4035,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "You said you were her sister.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4036,
-                                    "userId": 64,
+                                    "userId": 33,
                                     "content": "Did you know that the Demonsoul Skunk has a musk that can be smelled over a mile away at peak potency?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4037,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "SALISS. STOP.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4038,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "That\u2019s Saliss, right? Saliss, it\u2019s me! I\u2019m not alone, though.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4039,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "\u2026Clarabessa?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4040,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "No.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -7684,151 +7684,151 @@ export default {
                                 },
                                 {
                                     "id": 4095,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "Hello. Hello, is there an expert on frost magic in this \u2018discussion room\u2019? I am prepared to financially back any project with a verifiable cure. Payment on successful delivery.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4096,
-                                    "userId": 31,
+                                    "userId": 50,
                                     "content": "I am Fetohep of Khelt. No payment is necessary. One shall not want for fulfillment as Khelt is my witness.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4097,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "Is this\u2026Fetohep of Khelt, Ruler of Khelt, the nation?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4098,
-                                    "userId": 31,
+                                    "userId": 50,
                                     "content": "No less.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4099,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Buttered goat testicles, is this real?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4100,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I\u2019m Fetohep and I hate undead. Bleh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4101,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Dead gods. I am so sorry. I apologize without reserve\u2014that is Saliss again.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4102,
-                                    "userId": 43,
+                                    "userId": 2,
                                     "content": "It becomes clear that fraud is an issue. This system proposed by Wistram reveals more faults than benefits.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4103,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "True, but we are communicating multi-way. That\u2019s something only a few groups like the Walled Cities can manage.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4104,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "I can verify this. Although the Walled Cities\u2019 networks are encrypted. I believe this is an unsecured spell?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4105,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "My sendings are secure. I cannot vouch for individuals elsewhere. Nor do I lack for such means.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4106,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "We\u2019re just a Mage\u2019s Guild in Anazuland. Hello! Please don\u2019t spy on us, Wistram. :<",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4107,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Did that Witch just draw a sad face? This is amazing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4108,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I also would find the intrusion into my personal life discouraging. Good evening. This is an intriguing event.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4109,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Who this.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4110,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Salutations to all and sundry. I too, would like to participate in this discussion as an interested party into cures. I am an [Alchemist] of some means.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4111,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Oh snap. Is that you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4112,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Yes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4113,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I am getting tired of so many people dropping in. This is chaos. Wistram, what are you doing?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4114,
-                                    "userId": 6,
+                                    "userId": 32,
                                     "content": "I have reprimanded the offending party. Excuse me. You should see your [Message] scrolls rearranging. If you have a telepathic link, I suggest you retrieve an artifact.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4115,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "WHAT IS HAPPENING TO MY SCROLL",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4116,
-                                    "userId": 6,
+                                    "userId": 32,
                                     "content": "You now see multiple \u2018rooms\u2019 into which each intrigued party may write. This may alleviate the effects of so many parties conversing at once. Once again, I apologize for the issue. I tender my regrets to King Fetohep, Queen Yisame and the Great Sage of Nerrhavia\u2019s Fallen, Viscount Visophecin, Wall Lord Ilvriss, and any other parties.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4117,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Fascinating. You are the redoubtable Grand Magus of which many have spoken? It is an honor to meet with you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4118,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "And you are likewise intriguing. May I know your name?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4119,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I am a simple [Mage] who was persuaded to look into Miss Solstice\u2019s case by a mutual friend.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -7888,73 +7888,73 @@ export default {
                                 },
                                 {
                                     "id": 4129,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Hello.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4130,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Hey! You\u2019re alive! Amateur.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4131,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "RYOKA?!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4132,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "No? That\u2019s not me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4133,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Even I can tell that\u2019s a lie. Hold on, I\u2019m getting more snacks. This is hugely entertaining. Wait\u2026someone\u2019s having a choking fit.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4134,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "IT\u2019S ME! Ryoka, you\u2019re alive! We\u2019re here!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4135,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Is this \u2018C\u2019?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4136,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Yep!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4137,
-                                    "userId": 15,
+                                    "userId": 25,
                                     "content": "You\u2019re alive!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4138,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "MONS!?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4139,
-                                    "userId": 23,
+                                    "userId": 67,
                                     "content": "So fascinating. Hello, Eldavin.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4140,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Ah, you too? Salutations, V.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -7966,67 +7966,67 @@ export default {
                                 },
                                 {
                                     "id": 4142,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "\u2026So unto you, I render the highest compliments of my personage, and a fine greetings to all parties not hither-to presented into this venerable estate of communications.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4143,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Your address is well-received, Mri.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4144,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Is that you, Mri?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4145,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "It is, forsooth.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4146,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I don\u2019t think you know what that word means.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4147,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "How do you have a message scroll, Mri?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4148,
-                                    "userId": 41,
+                                    "userId": 15,
                                     "content": "Hello? Is this Lyonette?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4149,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "You are a damned fool, Krshia! A damned fool with little thought in your vacuous head of cotton! There is no Lyonette! There never was a Lyonette!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4150,
-                                    "userId": 33,
+                                    "userId": 23,
                                     "content": "I am sorry\u2026Mri? Mri?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4151,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Oh dear. I must leave posthaste for a moment. I fear I am in some distress, but I shall rally and communicate my thoughts as best able in time.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4152,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "No, don\u2019t go!",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8038,139 +8038,139 @@ export default {
                                 },
                                 {
                                     "id": 4154,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "So how much is a cure worth? I submitted a recipe for the Ethereal-ingredient antidote, but there are not enough ingredients in Anazuland for a full recipe.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4155,
-                                    "userId": 44,
+                                    "userId": 52,
                                     "content": "That was you? I will pay you for any items you have at twice their market price.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4156,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I will receive those items now. A Courier will go to Anazuland at once.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4157,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "No! No! Please, do not trouble yourselves! We can arrange a Courier\u2026Anazuland is not on many maps. Because we\u2019re so small.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4158,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Wait, you have ethereal-reagents? Is that their name? That antidote looked like it would work, but I\u2019ve never heard of ethereal reagents. Who\u2019s just walking around tossing out new alchemical ingredients.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4159,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "You have never heard of Ethereal-type reagents? My, my. Unexpected of Saliss of Lights. If this is Saliss of Lights.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4160,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "You\u2019re a funny person, Alchemist I. And I suppose you\u2019re good at alchemy?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4161,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I have a passing talent, yes. What is this recipe? I would greatly like to peruse it.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4162,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "My [Mages] shall copy it over to each one of you directly. They also vouch for its efficacy, although it is not perfect. That may be due to a lack of ingredients for even Exalted Khelt.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4163,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "It takes a reagent? Could one be growing in Oteslia???",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4164,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Probably not. I checked, but then again, it\u2019s a reagent no one knows about.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4165,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Once again, many people know of this ingredient, \u2018Saliss\u2019.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4166,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Go eat your tail. Who knows about ethereal-class ingredients?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4167,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Anazuland had a few.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4168,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Well, obviously you did, but that\u2019s one\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4169,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I have used them from time to time. They are rare, but seaborn variants exist.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4170,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Don\u2019t make things up. I\u2019m talking about real authorities, not [Charlatans].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4171,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I am familiar with ethereal-type substances, though I am not an [Alchemist]. I regret that I do not have many\u2026although there may be a thread that I could obtain? A spool of such material?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4172,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Now you\u2019re just making stuff up.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4173,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I regret to say that I too am familiar with the substance.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4174,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Are we discussing ethereal shrooms? Ghost Shrooms? I would like to pay for a few cultures if they can be spared. Wistram is out.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4175,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "I hate you all.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4176,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "This is an astonishing chat full of [Liars] or odd people.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8188,115 +8188,115 @@ export default {
                                 },
                                 {
                                     "id": 4179,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Did I hear the Great Sage of Nerrhavia\u2019s Fallen is in this? I would like to talk to her about a trifling matter.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4180,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I also, upon business regarding Nerrhavia and a matter of some import.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4181,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I\u2019m busy. What?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4182,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Me too! I have a friend in need. She\u2019s in Nerrhavia. My teammate? She\u2019s falsely imprisoned. Is there someone I could speak to in authority?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4183,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Hm? Interesting. That\u2019s not really me, but I can pass on messages, I suppose.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4184,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Wait, that is what I was going to discuss. I have someone I would like to pay any crimes or bounties on.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4185,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "That\u2019s not how it works.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4186,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Would you consider some gesture a fitting act to consider a pardon? Queen Yisame and I did speak briefly; I would very much like to talk to her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4187,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Interesting. What would that be about?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4188,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "A certain young woman in some distress regarding crimes committed or not. I would very much like clarity on the issue.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4189,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Dead gods, how many young women are committing crimes in this damn nation? I\u2019m not really willing to discuss information that may be confidential and I don\u2019t know anything about. Can someone write a name?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4190,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Often, the greatest act of redemption is the vocalization of an apology. Yet what spirit can endure such humility without losing some of its own self worth? Forgiveness without is a virtue among like-minded spirits of such nobility.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4191,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Intriguing sentiments. What class do you possess, Mri?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4192,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I have often been described as a [Druid], but my ambitions soar to [Wizard], [Adventurer] itself, and other passions.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4193,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Ah, there is a spirit long lost.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4194,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Indeed, indeed, but perhaps not on topic? Excuse me. \u2018Offtopic\u2019?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4195,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Yvlon Byres is my name. I would like to pay her debts.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4196,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Wait, that\u2019s my person too.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4197,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8308,61 +8308,61 @@ export default {
                                 },
                                 {
                                     "id": 4199,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Sorry. Did you say that was your \u2018teammate\u2019, Ice Squirrel?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4200,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Yes\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4201,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Yvlon Byres is the person of my concern as well.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4202,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I have occasioned a passing regard for Yvlon Byres, and am willing to put down good coin upon her release for whatever misdemeanors she has incurred.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4203,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I\u2026may have it on good authority that Yvlon Byres was freed and pardoned of all crimes this morning. I may even be able to put her on this scroll.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4204,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "WHAT.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4205,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "That\u2019s incredible. Incredibly suspicious. Can Yvlon give us some information her\u2026sister might recognize?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4206,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Her brother is standing next to me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4207,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "WHAAAAT",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4208,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "He appears to be having heart failure. One moment.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8380,235 +8380,235 @@ export default {
                                 },
                                 {
                                     "id": 4211,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Enough peeking. Any links within the academy will be backtraced and burned.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4212,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Admirable spellcasting. Is this a new feature Wistram intends to offer, by any chance?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4213,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "That is the theory, yes. You are familiar with basic message-linking?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4214,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Naturally.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4215,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I assumed Wistram forgot.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4216,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "There is much Wistram forgets, with respect.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4217,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "No offense taken. I am attempting to rectify the magical situation here.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4218,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Very commendable, Grand Magus. If we are ever to meet, I should highly like to sample a vintage from the villages with you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4219,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Intriguing. I may accept. That presupposes I know who you are.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4220,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I believe I would make it a point to seek you out.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4221,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Not ominous at all.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4222,
-                                    "userId": 4,
+                                    "userId": 51,
                                     "content": "lol",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4223,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "What is that name?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4224,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "That expression\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4225,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I assume someone sneezed on the parchment or that\u2019s a word.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4226,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "In which dictionary.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4227,
-                                    "userId": 4,
+                                    "userId": 51,
                                     "content": "srry. this is wild.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4228,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Correct your spelling at once. Name yourself. Pallass?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4229,
-                                    "userId": 4,
+                                    "userId": 51,
                                     "content": "!!!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4230,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Ah, backtracing. I would politely ask you refrain from doing so.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4231,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Noted, but I am attempting to understand if this is a literal child or fool.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4232,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "One must take the child firmly in hand and feed them a cookie. For how will they not learn if they are not fed?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4233,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "Sorry. I\u2019m not used to this.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4234,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Oh, it\u2019s that one. Why am I even surprised at this point?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4235,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Fascinating.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4236,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Beyond fascinating. Hello. I am an incredible fan of your televised performance.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4237,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "Oh, thanks. This is amazing. Who are you all?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4238,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I am Grand Magus Eldavin of Wistram.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4239,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "\u30fd(\u00b0\u3007\u00b0)\uff89",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4240,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "He\u2019s doing it again. Have they just\u2026forgotten how to write in Pallass?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4241,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "It would honestly not surprise me. Believe me, sometimes I wonder if they know how to use toilet paper.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4242,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "HAH.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4243,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "As a representative of Pallass proper, I can assure you, Saliss, that our hygiene is superior to most cities. As you might recall.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4244,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "And here come the [Fun Murderers].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4245,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Ah, is this Magus G? Have we met?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4246,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "Salutations, sir. Another achievement, however modest.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4247,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Mm. Only in reconstructing what is lost. Much like a [Historian]. But thank you. We must take wine and discuss magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4248,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I am humbled. Is this the redoubtable Magus Grimalkin himself? I am a humble spellcaster compared to you all.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4249,
-                                    "userId": 53,
+                                    "userId": 55,
                                     "content": "You are exceptionally kind.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8620,49 +8620,49 @@ export default {
                                 },
                                 {
                                     "id": 4251,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I, Fetohep of Khelt, greet the following in brevity unbefitting my manner but the state of this hurried conversation\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4252,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Mri, are you safe?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4253,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Though I confess to pekishness betimes, I have managed my salutary meals of leafed varieties with more wholesome peccadillos of sustenance, thank you. I eagerly await our meeting posthaste.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4254,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I will come soon. If all is well.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4255,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Magus Grimalkin of Pallass, Joseph Ortega, the individuals referring to themselves as \u2018Sandquen\u2019, \u2018YlawesB\u2019, \u2018Alchemist I\u2019\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4256,
-                                    "userId": 33,
+                                    "userId": 23,
                                     "content": "All is very well as it can be. Is all well over there?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4257,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Hey, someone show respect to Fetohep. He\u2019s writing over there.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4258,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Hello? Hello, can you see this?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -8698,271 +8698,271 @@ export default {
                                 },
                                 {
                                     "id": 4264,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I would like to remind those present upon the nature of this meeting.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4265,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Yes, yes. But we have a situation and someone is about to stab me with a fork if I don\u2019t\u2014here.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4266,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "Ice Squirrel?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4267,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "YV!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4268,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "Are you well?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4269,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "It\u2019s Ysara. Yvlon, is that you? Say something you said to me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4270,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "Belt over boots?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4271,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "??",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4272,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "That\u2019s her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4273,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Maybe\u2026are you alright?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4274,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I am copying this message unto these separate rooms. The quarry is the revival of Erin Solstice.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4275,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "oop",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4276,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "Is something wrong, Ceria?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4277,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "No, Fetohep.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4278,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I don\u2019t think he quite understands how this works. I need to look up precedent.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4279,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "They used to do this\u2014albeit in different formats. I have removed the limitations of speed.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4280,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Truly? It seems old, even for my knowledge of Wistram.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4281,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Ah, well, some of us are older than others.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4282,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "It must be very old.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4283,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "Are you in need of help, Yvlon? Are you still in prison?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4284,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I don\u2019t recall anything of the nature.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4285,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Go back to your discussion \u2018room\u2019. This is private business.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4286,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Upon my sword, I shall rescue you, Yvlon Byres! If rescue needs be the occasioned, you have my sword.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4287,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "AND MY AXE.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4288,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Dead gods.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4289,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "Thank you, Mri? Do I know you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4290,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "GET OUT",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4291,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "If you need transport, or anything, we can fund it. What\u2019s the situation?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4292,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "I\u2019m very well set. I have allies in high places. There is some issue, but Prince Zenol, a Gold-rank adventurer, is here and helping me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4293,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Zenol!?!? Great!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4294,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "That\u2019s wonderful news. I will head out with my team at once to help you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4295,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "YLAWES, ENOUGH",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4296,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "No. I am quite well Ylawes, and I will make my way home and recover my team on my own means, thank you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4297,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "Apologies\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4298,
-                                    "userId": 54,
+                                    "userId": 43,
                                     "content": "Lad\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4299,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I will be overseeing the main discussion, what I believe is now referred to as Room A: Efforts unto a Satisfactory Cure.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4300,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Anyone seen Bone Boy? That\u2019s what we\u2019ll call him.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4301,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "He\u2019s in trouble.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4302,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "Your friend is out of Roshal\u2019s grip. More than that will depend on the future.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4303,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Who\u2019s this now?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4304,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Friend?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4305,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "Friend.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4306,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Saliss!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4307,
-                                    "userId": 17,
+                                    "userId": 20,
                                     "content": "Oh, this is wonderful. So many powerful people helping towards one cause! Hello! I\u2019m hoping I can help in some way!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4308,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Sigh.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9094,43 +9094,43 @@ export default {
                                 },
                                 {
                                     "id": 4330,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "With apologies, I introduce the Vizir Hecrelunn.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4331,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Hi.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4332,
-                                    "userId": 40,
+                                    "userId": 16,
                                     "content": "It is my\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4333,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "yo, is it that guy I saw on the news? this is wild",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4334,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "\u2018yo\u2019 yourself?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4335,
-                                    "userId": 59,
+                                    "userId": 29,
                                     "content": "I am the Vizir of Khelt and I will have\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4336,
-                                    "userId": 18,
+                                    "userId": 45,
                                     "content": "I am a huge admirer of Kheltian magics from that era. Do you have a full, working spellbook? I would love to compare notes.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9142,121 +9142,121 @@ export default {
                                 },
                                 {
                                     "id": 4338,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I too possess some aptitude with magic. We should compare spellbooks.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4339,
-                                    "userId": 18,
+                                    "userId": 45,
                                     "content": "Are you a fellow spellcaster?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4340,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I as well. I believe I know you, Archmage Valeterisa? Well met. I am able to cast Tier 5 magics; a handful of spells. It is my singular accomplishment in life.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4341,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Respectable, respectable. A Revenant aside from Fetohep of Khelt? Possibly Tier 6-7. I sincerely doubt he can manage a Tier 8 unlinked, but I suppose backup spellcasters are useful.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4342,
-                                    "userId": 30,
+                                    "userId": 53,
                                     "content": "What did you just say?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4343,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I am the Grand Magus pledged to restoring Miss Solstice to life, as Windy Girl is aware. It is a compounding issue, but I believe I can do it once my affairs here are done. Which reminds me, Windy Girl\u2014your situation?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4344,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Good?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4345,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Where are you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4346,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "You can\u2019t tell?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4347,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Oh my.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4348,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "It is difficult with so many connections, and I believe I was asked to be private.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4349,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "I am amazed this ritual can hold so many individual links.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4350,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Well, in truth, this is a completely different magical system than the one Wistram or the Walled Cities apply. Far more efficient.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4351,
-                                    "userId": 30,
+                                    "userId": 53,
                                     "content": "BE SILENT, MORTALS. I AM SPEAKING. MY MAGIC AND WISDOM FAR SURPASSES ANY PRESENT.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4352,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Oooh. This is going to be hilarious. You\u2019re new here, aren\u2019t you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4353,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Thou hast met many foes in your lifetime, Mighty Vizir Hecrelunn of Khelt, but you have not met Mri, the Great and Terrible. Many have known my wrath; few have escaped unscathed.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4354,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Mri\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4355,
-                                    "userId": 12,
+                                    "userId": 9,
                                     "content": "What are you doing to my academy? This is ridiculous. These days of [Mages] and petty politics have begun again.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4356,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Haven\u2019t they always been petty?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4357,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Hah! Well said! They have always been petty and pathetic.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9274,31 +9274,31 @@ export default {
                                 },
                                 {
                                     "id": 4360,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Once again, I convene this to be Room B: Succinct Conversations Unto a Cure. Please focus your attention upon the issue.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4361,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Apologies. Frankly, this system needs work. Perhaps an overall moderator?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4362,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "And who\u2019s that, Wistram? Funny how it\u2019s always Wistram, huh?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4363,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "We are getting off-track. Please remain focused.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4364,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "It\u2019s off-topic.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9310,37 +9310,37 @@ export default {
                                 },
                                 {
                                     "id": 4366,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Fetohep is right. We\u2019re all here for the same reasons, aren\u2019t we? You might need three rooms, though. Aren\u2019t there three components? Healing, antidote, freezing spell?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4367,
-                                    "userId": 44,
+                                    "userId": 52,
                                     "content": "The potion has been taken care of. Healing, I mean. Unless a Potion of Regeneration at about one third dosage is not acceptable\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4368,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Ah, this is commendable. A replacement can be arranged if need be, but I am assured it is effective. I shall \u2018set up\u2019 such rooms then and preannounce them.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4369,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Don\u2019t do that. I\u2019ll write it into potions and tag\u2026um, Saliss, Witch A, and Alchemist I. Anyone who wants can jump in. That\u2019s efficient.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4370,
-                                    "userId": 51,
+                                    "userId": 60,
                                     "content": "You are insolent, whomsoever you are, before the rulers of Khelt.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4371,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Hey, Hecrelunn. Shut up.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9358,277 +9358,277 @@ export default {
                                 },
                                 {
                                     "id": 4374,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Alright, alright. Antidotes. Everyone keeps saying ethereal-type reagents are the way to go, but who has any?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4375,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "I have a few, but not enough to make a full potion out of.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4376,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Or experiment. Sadly, my stocks would also be lacking, but I have the expertise to alter\u2026any standard antidote. Is this some kind of advanced poison? Rotlung? Hetheic Death? Magical-vectors?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4377,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "It\u2019s\u2026a poisonous berry enhanced with some snake venom. Cosqe Stinger is the local term. About Intensity\u202614 on Relik\u2019s Scale.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4378,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I see\u2026and the issue is? Not that I would trust Saliss of Lights to cure warts.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4379,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Funny. :)",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4380,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "You\u2019re hilarious. Everyone must love you. Listen, I\u2019ve made the cure. Liquid, gas\u2014it\u2019s for a giant ice cube, and that\u2019s why it\u2019s difficult. Understand? Do you need me to write down the exact ingredients?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4381,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "You may if you are attempting to alter a potion to interact with frozen flesh. What have you tried?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4382,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Funny thing. You only get one chance. I think they\u2019re trying the cure on squirrels.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4383,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Regular squirrels, or is that a euphemism?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4384,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Regular squirrels. I gave them a simple liquid injection, but ethereal-type potions aside, there\u2019s no good vector.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4385,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Have you considered teleporting the liquids into the injuries\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4386,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "What.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4387,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "That is not how potions work.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4388,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Apologies.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4389,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "I have actually looked into a spell that would simultaneously redivide and redirect such potions like that\u2014but the complexity and variance in each body makes it difficult.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4390,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "What she said. Listen, I don\u2019t have another solution. Frozen flesh. Non-moving blood\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4391,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Seeker liquid.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4392,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Seeker\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4393,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "So smart. :o",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4394,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Hold on, can anyone actually make seeker liquids anymore? I\u2019m only familiar with hostile liquids.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4395,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "I assure you, it\u2019s possible. Seeker liquid antidote combined with a high intensity soak-factor.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4396,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "You\u2019ll poison her with the antidote.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4397,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Not if you use Skills. [Beneficial Tonic]?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4398,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Exactly. I would also venture a guess that you could trial the ethereal-antidotes by replacing the missing component with a translucence-type reagent. Obviously, you would alter for the actual ingredient, but a sample antidote recipe lacking only for the exact ingredient could be formulated. I am close to my workstation and can attempt it tonight. Someone must, it seems.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4399,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Brutal. :)",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4400,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "I think I know who you are, \u2018Alchemist I\u2019. How did you get over here? I wouldn\u2019t feed your \u2018antidotes\u2019 to Crelers.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4401,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "You couldn\u2019t cure Creler poison.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4402,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "<3 :) :) :)",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4403,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Thank you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4404,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "That\u2019s it. I\u2019m preparing a set of antidotes right now. I\u2019ve created water-soluble liquids and I\u2019m forwarding them to the [Researchers] and we\u2019ll see how good my cures are.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4405,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "And I will demonstrate actual progress on my end shortly. Heading to my laboratory now.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4406,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Dead gods. Sands save me from competing egos. Will someone start writing recipes? I\u2019ll trial both.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4407,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "I\u2019ll write down each successful iteration. You know who I have helping me? Alchemist Xif of Pallass himself.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4408,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "\u2026Is that a net benefit?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4409,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "How dare you. Xif is the most hard-working, respected [Alchemist] in Pallass\u2014aside from me. He is a credit to the City of Invention, and you will not slander his good name.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4410,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Maybe I will make a cure too. I am good with ingredients.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4411,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "\u2026That would be helpful, but I believe we have enough expertise on our end to formulate a cure if possible, Miss Witch A.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4412,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Yeah, what he said.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4413,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "(\u0ca0_\u0ca0). I am a [Witch]. I am good at magic and alchemy.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4414,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Yeah. Sort of in both.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4415,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "We are both [Alchemists].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4416,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "(\u0ca0_\u0ca0)(\u0ca0_\u0ca0)(\u0ca0_\u0ca0). I will hex you. I am better. I will make a potion. I have better Skills and levels.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4417,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Listen to this. Let\u2019s find out. Put your exploding bottle where your mouth is. I\u2019ll have my first entry here in 15 minutes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4418,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "10.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4419,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Sigh.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9640,79 +9640,79 @@ export default {
                                 },
                                 {
                                     "id": 4421,
-                                    "userId": 17,
+                                    "userId": 20,
                                     "content": "I have two [Alchemists] looking into these cures.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4422,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "I commissioned one a month ago.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4423,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "I, as well, believe I have at least ten in a research team undergoing trials.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4424,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I have eighty-eight. The issue is not the cure itself, but a new reagent or\u2026spell. If anything, I believe the antidote is lesser to a more adept ice spell.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4425,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "True. We have had only standard [Mages] researching spells. Is there any capable [Cryomancer] here? Anyone with a passing knowledge of such magic?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4426,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "You could say that.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4427,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "Perhaps. I also know about the body\u2019s interactions with cold.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4428,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I too, am similarly proficient in ice magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4429,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Me?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4430,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "I as well.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4431,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Hm\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4432,
-                                    "userId": 18,
+                                    "userId": 45,
                                     "content": "I know in excess of three hundred spells, yes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4433,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I hope to be of some small assistance with you all.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9724,121 +9724,121 @@ export default {
                                 },
                                 {
                                     "id": 4435,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "I am prepared to offer a prize for any spell that is most effective, whereupon I introduce \u2018Researcher Dromenl\u2019 and \u2018Cryomancer Ulea\u2019 who have led the issue. They may communicate more, but the issue as it is presented to me is that the body is damaged when heated unevenly. A superior, elegant magic is required.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4436,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Thank you all for helping. I and Wall Lord Ilvriss will also contribute in any way if that is an incentive at all, not that I would dare to assume I can add to Khelt\u2019s largesse.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4437,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Yes, thank you. Please help her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4438,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Not to disturb those here, but I must ask: this young woman frozen is alive, is she not?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4439,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Neither [Detect Life] nor [Detect Death] work on her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4440,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "That is not\u2026entirely encouraging. An object would also fail to register on both spells.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4441,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I assure you, a dead body would have some residual death magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4442,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I would concur with that based on my observations.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4443,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Encouraging, then.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4444,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Erin Solstice is alive. I assure you of that. If she were here\u2026she would be more concerned with the wellbeing of others. She is alive.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4445,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "That sounds exactly like her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4446,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "How do all of you know her?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4447,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Friends of friends or just friends. Let\u2019s not get distracted.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4448,
-                                    "userId": 52,
+                                    "userId": 38,
                                     "content": "Yes, hello! I am very gratified by all these experts. Very gratified. I would love to talk about any spells anyone might have an understanding of\u2014we have to teach and cast the spells ourselves, you see, and there are few dedicated [Cryomancers] with ice Skills. Any help would be greatly appreciated\u2014and I also would like to know more details on the live people\u2019s trials, Cryomancer Ulea. Apparently one lived but shortly expired?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4449,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Enough. Desist, Researcher Dromenl. Some details are not to be m\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4450,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "The WHAT",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4451,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Uh oh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4452,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "May I hear more about this.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4453,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I believe this requires an explanation.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4454,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Standby.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9862,61 +9862,61 @@ export default {
                                 },
                                 {
                                     "id": 4458,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I am the most senior [Mage], so I will list five spells which might possibly be of some use: [Iceflesh], [Rune of Warmth]\u2014if applied correctly, of course. Is the rate of warming essential? [Greater Resistance: Cold] for the opposite qualities. [Heated Room]. [Solar Ray: Wide Diffusion]. Each one creates a powerful warming or anti-cold effect.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4459,
-                                    "userId": 45,
+                                    "userId": 5,
                                     "content": "We\u2019re aware of all five, but these are all very potent spells\u2026which we cannot cast. At least, [Heated Room], but [Rune of Warmth] would require a Fissival-trained expert, and we were unsure of the efficacy. Can you please elaborate?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4460,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Ah, of course. The \u2018healing\u2019 aspect of warming the flesh intrigues me. Enough for a Potion of Regeneration to work but avoiding the trauma of the injuries?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4461,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I believe all those spells may fail.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4462,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Really? You base this on\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4463,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "He may be right, with great respect, Grand Magus. [Iceflesh] and [Greater Resistance: Cold] are based on a living target. Which is disqualified in this case. Moreover, simply warming flesh still creates intensive damage.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4464,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Ah.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4465,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Significant damage on a low level. Degradation of the flesh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4466,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "These were simply the five most accessible spells.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4467,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Utterly juvenile. Is that the best spellcasting of a Grand Magus of Wistram?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -9964,211 +9964,211 @@ export default {
                                 },
                                 {
                                     "id": 4475,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I find your tone insulting. I take it that this is Duke Rhisveri of Ailendamus?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4476,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "None other, Grand Magus Eldavin of Wistram.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4477,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Well met.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4478,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Indeed.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4479,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "And I suppose you know instantaneously which spell will be most efficacious?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4480,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "I would not stoop to mediocre spells. Cast [Blessing of the Winter Warrior] and begin from there.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4481,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "That is a lost Tier 6 spell!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4482,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "For some.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4483,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Quite a bold claim. And you suggest a [Researcher] in Oteslia can cast this spell because\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4484,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Do spell scrolls not exist in your understanding of the world?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4485,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "No more than politeness lacks in yours, apparently. I would not fortify Miss Solstice\u2019s flesh. If I were to skip to advanced spells, I would cast [Room of Paradise], which would, as a byproduct of the spell, instantly remove all ice and cold from her body.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4486,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "That is quite a\u2026powerful spell.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4487,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Indeed. This is beyond me, greatly. Which spell school is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4488,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Transmutation.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4489,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Transmutation.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4490,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "You also lack finesse. [Room of Paradise] simply removes and maintains an environment; the actual removal of said cold and ice is done poorly. I would venture [Inferno Skin] for the most instantaneous change possible.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4491,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "You forget Miss Solstice is neither animate nor inanimate. Your spell would lack grounding.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4492,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "In the hypothetical situation.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4493,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Mhm.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4494,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "You can alter that spell to target inanimate objects. Or do neither of you practice spell theory?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4495,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "Wait, would you elaborate on that? Which method is this\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4496,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "That is an old style of spellcasting.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4497,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I am quite aware of that. I wondered if Duke Rhisveri was\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4498,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "For someone who thinks runecraft on a frozen body wouldn\u2019t take into account her natural magical field and leylines, you are quite thoughtful.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4499,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "This is astonishingly unhelpful, you fools.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4500,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Excuse me?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4501,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Oho.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4502,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "And your name is?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4503,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "I am someone who actually practices ice magic. None of these spells focus on what matters. Which is maintaining the person affected by the spell. Speed is not as essential as keeping them safe. I knew a fellow spellcaster who froze her own flesh, and she was a [Cryomancer].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4504,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I concur with that theory. If you could apply [Greater Resistance: Cold] to the young woman\u2026that is a working theory. If someone could experiment? I might be able to cast it in a weaker version. Hold on.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4505,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "That\u2019s not going to work.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4506,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "There are quite a lot of unverified claims flying about. Your expertise and classes?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4507,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "Private. I am an expert, however. At least, in this area. Ice Squirrel, you\u2019re silent.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4508,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Thinking.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4509,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "We are trying this.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10216,145 +10216,145 @@ export default {
                                 },
                                 {
                                     "id": 4517,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I\u2019ve already trialed this.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4518,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Really?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4519,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "That\u2019s remarkably quick.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4520,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I may know my way around this theory\u2026the problem is that the [Resistance: Cold] spell applied to all of the frozen sample. Including the actual ice, and, I would imagine, clothing\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4521,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "This is true. Damn. Can you re-focus the spell\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4522,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "In my age, any [Cryomancer] would be able to affect such changes instantly. They have frozen and unfrozen people.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4523,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Historically? Yes. What you neglect to mention is that such individuals, aside from the highest-leveled [Warriors] or those possessed of great recovery magic, expired in less than a month from the trauma\u2014and only those immediately unfrozen. Those frozen for any period died within days or a week at most.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4524,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "\u2026Perhaps.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4525,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "Listen to me, you don\u2019t need a higher-tier magic, but a specific one. Even something as simple as [Ice\u2019s Caress]\u2014if you could cast it on this person despite them not being alive\u2014combined with [Warming Touch] would work.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4526,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "[Warming Touch]. What are we, children?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4527,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "You are irking me, little man. Stop posturing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4528,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "So says the girl who can\u2019t even hide her location. XD",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4529,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Hah! True.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4530,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I do not know if \u2018Queen R\u2019 is fitting. Without identity checks, I am leery of the concept\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4531,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "You are all getting on my nerves. I will remember this. I am among the finest spellcasters here, I have no doubt.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4532,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "What amazingly misplaced confidence.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4533,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "With respect, my dear, I am the Grand Magus of Wistram.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4534,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "I am not your dear. I am over Level 40 in my magic class and\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4535,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Pshaw! Is that all? Come back when thou art of proper age, child. Have a goat\u2019s milk.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4536,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Hilarious. It was worth coming here.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4537,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Heh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4538,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "XD XD XD",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4539,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "I will remember this. All of you. All of you are upon my list.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4540,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I shake in my boots.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10366,289 +10366,289 @@ export default {
                                 },
                                 {
                                     "id": 4542,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "I remember freezing the skin off my hand.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4543,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": ":O. Painful.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4544,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Wonderful. Is this an example not to learn from\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4545,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "Hm.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4546,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "My master always warned me about that backlash. [Cryomancers] survive cold magic by having natural resistance to cold, don\u2019t they?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4547,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "That is standard theory, yes. Where are you going with this, Ice Squirrel? Glad you\u2019re alive.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4548,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Thanks, Testicles.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4549,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "What.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4550,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "HAHAHAHA",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4551,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "I get that reference! I think?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4552,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "However, [Cryomancers] have to cast magic around\u2026other people. Normally we restrict the area of casting or just cast frost protection spells. However, if you do need to thaw flesh\u2026does [Cooling Wind] make sense to anyone?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4553,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Hmm!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4554,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "That is odd. That is a Tier 1 aeromancy-cryomancy spell, more focus on aeromancy, with little efficacious effects. I cannot see why you would mention it.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4555,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Something my master once said? I don\u2019t recall. The theory is\u2026well, I can\u2019t quite reach it. Can someone help me out?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4556,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Interesting.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4557,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I believe I am grasping what she\u2019s talking about.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4558,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Oh? I think I understand.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4559,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Enlighten us and we will check your theory.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4560,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "[Cooling Wind] has little use as a spell for\u2026anything. Aside from temperature regulation. However, it is so low-level that it\u2019s closer to Tier 0.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4561,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "Yes! But it has one interesting feature. It does not generate any cold.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4562,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Precisely. It removes cold from one target to create cold air. Which is why it is not even that cooling\u2026however, on a fundamental level, it\u2019s different from the generation of heat.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4563,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Of course.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4564,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I begin to understand. This is similar to [Void Room] in theory. The removal of something rather than\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4565,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Yes! That\u2019s it! She said there was a way to remove cold rather than heating and\u2026hurting the flesh?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4566,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Magus G? Your opinion?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4567,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "In theory, removing the cold itself is less traumatizing than heating skin and creating two opposing elements. It would certainly be the smoothest method of thawing Miss Solstice I could imagine\u2014if you could scale that up for a body-wide, seamless induction of heat.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4568,
-                                    "userId": 19,
+                                    "userId": 61,
                                     "content": "Ah. Adjust this spell in that manner? Quite possible.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4569,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "\u2026I don\u2019t believe it is that simple. Most spells cannot be altered at a fundamental level.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4570,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I believe you may be \u2018putting egg on your face\u2019, as the children refer to it, Magus G.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4571,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Children do not say that.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4572,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "It\u2019s beyond possible.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4573,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "I will leave it to experts, then.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4574,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "I will test this theory on a rodent or two if I can find one. This\u2026seems plausible, but I would like suggestions as to spells and the methods.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4575,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "[Frost Vortex] but you pull the cold out and chain the effect to one spot?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4576,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Inefficient. It could work, but use [Zone of Absolute Chill]. Or [Hidden Spot of Deep Freeze].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4577,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "Oh! Ambush magic? You walk into it and you die? Do you actually know the spell, or is this an example?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4578,
-                                    "userId": 45,
+                                    "userId": 5,
                                     "content": "Er, this is all very helpful, but some of these spells might be beyond our capabilities here. Cryomancer Ulea?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4579,
-                                    "userId": 38,
+                                    "userId": 8,
                                     "content": "No. Absolutely not. How would you use the effects of [Cooling Wind] on another spell?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4580,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Unbelievable.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4581,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I will begin writing up a lesson. Ice Squirrel, do you have any other insights into this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4582,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Not\u2026too much for projecting sheer cold. I have an aura.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4583,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Of course. Auras. That\u2026could work if someone were there. However, for spells\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4584,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "[Void Air]. Tier 4. Even amateurs can use it.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4585,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Oh! Oh!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4586,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Thank you, Vizir. Testing\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4587,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "Me too! I just need to find something. Uh\u2014I\u2019ve got bugs?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4588,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Searching for rats.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4589,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I can get a rat. Not sure about the magic. I am passing glad we are all working together to find a solution so effectively. Let\u2019s all pat ourselves on the back.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10666,37 +10666,37 @@ export default {
                                 },
                                 {
                                     "id": 4592,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "Go to Nerrhavia\u2019s Fallen. I have allies.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4593,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "So do I. Uh\u2026where\u2019re our boys?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4594,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "We\u2019ll find them.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4595,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "Do you need help?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4596,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "They have help.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4597,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Indeed.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10708,55 +10708,55 @@ export default {
                                 },
                                 {
                                     "id": 4599,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I will find you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4600,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I know.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4601,
-                                    "userId": 33,
+                                    "userId": 23,
                                     "content": "She is here and will be protected. I promise.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4602,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Do you need\u2026help?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4603,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "They will have all the help they need.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4604,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Good, but if you need it\u2014call.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4605,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "What\u2019s going on now? Do you need assistance?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4606,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "I represent some power within my kingdom. Is there an issue?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4607,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I\u2026believe we are not all on the same page.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10822,31 +10822,31 @@ export default {
                                 },
                                 {
                                     "id": 4618,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Hello. I see that you are looking for something with ethereal qualities. I have a spool of thread to sell. Are you interested?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4619,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Who is this now? Are we [Weavers] or something? Wait\u2026that is interesting.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4620,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "I am a salesperson. I have many objects for sale. Alchemy related and otherwise. Hello.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4621,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Is this\u2026a joke?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4622,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Wait. That name.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10858,61 +10858,61 @@ export default {
                                 },
                                 {
                                     "id": 4624,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Is someone interested in a spellbook?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4625,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "No. No!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4626,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "Don\u2019t be hasty. Spellbooks are always welcome. What kind are we referring to?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4627,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "No. Do not respond to this person.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4628,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "Agreed. Is this real? Grand Magus Eldavin, into this chat now.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4629,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "I am prepared to make a deal. The means change and are unfamiliar. There are always those that want something.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4630,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "Who is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4631,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "I\u2019m not sure. Everyone is leaving. Wait. Wait.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4632,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "You.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4633,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Me?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -10924,271 +10924,271 @@ export default {
                                 },
                                 {
                                     "id": 4635,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Hello. I hope I am not interrupting anything. I followed someone here.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4636,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "This is an advisement: do not speak to this individual. Do not mention her name. Do not make any deals. It could be a hoax. If not\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4637,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I know that name.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4638,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "I do too\u2026",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4639,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Ah. I believe this is either a hoax or\u2026the most significant event I can imagine.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4640,
-                                    "userId": 15,
+                                    "userId": 25,
                                     "content": "Oh no. No, no, no.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4641,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "I am hugely interested. Are you truly Belavierr? If so, I would greatly like to talk to you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4642,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "What do you have to offer?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4643,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "You? You?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4644,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Don\u2019t talk to her. She\u2019s evil.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4645,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Odd. What a strange thing. I know you? I do know you. I do know you. There you are.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4646,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "What\u2019s going on? My ink just turned red.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4647,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "I\u2019m just me. Go away, stinky. Stupid face.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4648,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Stop talking to her. Grand Magus!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4649,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "I see it. The link isn\u2019t breaking. It\u2019s\u2014",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4650,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Mri, leave, now. Krshia?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4651,
-                                    "userId": 33,
+                                    "userId": 23,
                                     "content": "I have her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4652,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "\u2014stuck? I can\u2019t sever the magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4653,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "That name.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4654,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "You.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4655,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "I will find you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4656,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "Who is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4657,
-                                    "userId": 35,
+                                    "userId": 48,
                                     "content": "I don\u2019t know. I don\u2019t like this. That\u2019s not regular magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4658,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Leave. I would advise you all to leave.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4659,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Belavierr. You are not welcome here. I would advise you to leave, much less make threats.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4660,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "I will hunt you down, oath or not. You are my nemesis. I will not harm you. You will wish you were harmed. I see your thread. You. You.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4661,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "Who is this interloper? Why does that name sound familiar, even now? You invoke violence in the presence of Fetohep of Khelt. Begone.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4662,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Truly, begone. This has gone from amusing to chaos to danger.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4663,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "Your presence is unwanted. By the rule of three, begone.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4664,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Where is she? Tell me.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4665,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "That is a child. I will not let you harm her. Do not make me invoke my friends. You were warned.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4666,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "What.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4667,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "What.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4668,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Her battles are not yours. Do not involve yourself.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4669,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "You are hunted. Someone, trace her magic. I will send it to the Hunter\u2019s Guild of Terandria.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4670,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "No one can follow my thread.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4671,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "Begone, [Witch]. Or I will scorch your frail hat with fire. You cannot threaten Khelt.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4672,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Agreed. Wistram will not suffer magical interlopers.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4673,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "Nor Ailendamus, one supposes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4674,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Not children. Nor the Spider of Terandria. Begone. You are marked, Belavierr.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4675,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "I did not come here to offend. This is a personal matter.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4676,
-                                    "userId": 5,
+                                    "userId": 58,
                                     "content": "It becomes personal. Lose yourself, whomever you are.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4677,
-                                    "userId": 46,
+                                    "userId": 36,
                                     "content": "In solidarity, I suppose. Begone.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4678,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "You do not want me as your enemy. Trouble me not.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4679,
-                                    "userId": 34,
+                                    "userId": 21,
                                     "content": "Very well.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11218,73 +11218,73 @@ export default {
                                 },
                                 {
                                     "id": 4684,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Damn. You chased her off. Does no one think about tracing her so we can teleport explosive potions to her?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4685,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "You do not wish to attempt that. Not at range. Not with her.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4686,
-                                    "userId": 11,
+                                    "userId": 63,
                                     "content": "I\u2019m suddenly less positive about this phenomenon.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4687,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "That will not happen again. This is an aberration.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4688,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "I suppose we should discuss future meetings and efforts. This may not all come together perfectly.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4689,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "I doubt this will happen twice. Wistram was pestering everyone to get involved, for ill or worse. I will contribute my time. We made good progress.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4690,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Progress\u2026I hate that word. It\u2019s slow.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4691,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Sometimes, a project takes aeons. You must know that.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4692,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "It is too slow.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4693,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Yes, it is.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4694,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "It will not be long now. I will see you, Windy Girl. And you and I will discuss matters later, Rhisveri of Ailendamus.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4695,
-                                    "userId": 26,
+                                    "userId": 7,
                                     "content": "We may just do that indeed.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11320,7 +11320,7 @@ export default {
                                 },
                                 {
                                     "id": 4701,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Am I too late? Is everyone gone?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11332,199 +11332,199 @@ export default {
                                 },
                                 {
                                     "id": 4703,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "No. Are you here to help Erin too? Can you help? She needs help, please.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4704,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "I think I can. My name is Geneva. I am a [Doctor].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4705,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "The Last Light of Baleros.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4706,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Some call me that. It\u2019s not accurate.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4707,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "You! I tried to contact you, but you were gone.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4708,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "I\u2019m sorry. I have been indisposed. However, I did not forget my promise.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4709,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "[Doctor]? That depraved class still exists? What mad sawbones is this? I doubt, Fetohep, that this is one you wish to court, even in this sorry excuse for an era.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4710,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Ah! Greetings! A fellow practitioner of the craft?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4711,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Oh, dead gods.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4712,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "No.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4713,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "No. It\u2019s a [Doctor]. A real\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4714,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Hello to all. I\u2019m sorry I\u2019ve been out of contact. As I said, I am a [Doctor]. I have been working on the case of Erin Solstice. I must be brief, as I do not have much time, and I believe there is some issue about the security of these messages?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4715,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "None at all, and your secrecy is assured, I pledge it upon my magic.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4716,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Thank you. I will still be as direct as possible. I was the one who first drafted the possibility of a cure for Erin Solstice. However, I am not a professional in this field, and my understanding of cryonics this area is incomplete.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4717,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "Oho.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4718,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "Indeed.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4719,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "I formulated the cure in three parts. Curing the poison before or after thawing the patient without damaging her body, or doing so in a way that would allow a sufficient healing potion or spell to take over.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4720,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Yes. But it does not work :(. Not properly. Healing is tricky.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4721,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "It is. Even with medicine and magic, healing someone whose heart is entirely stopped is\u2026the most difficult thing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4722,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Can it even be done? Restart a completely dead heart?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4723,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "Let her write, please, Windy Girl.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4724,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "I would consider it nearly impossible. There is a difference between a heart with an electrical signal and one\u2026without. Someone who is functionally dead in all respects is not the same as bringing back someone who has suffered a heart attack or drowned, for instance. In those cases, clearing the airways, restoring blood flow, is enough to continue the body\u2019s operation. Not here.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4725,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "What is the answer, then? A Selphid?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4726,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "A Selphid can make a body move, but if the person is truly dead, they are only moving a dead body. Perhaps there is some way to move every part of the body, restore blood flow, artificially or with magic. I do not know if I could consider that life.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4727,
-                                    "userId": 12,
+                                    "userId": 9,
                                     "content": "Someone will answer you when that time comes again.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4728,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Yes. They will. Please continue, Doctor Geneva. Do you have an answer?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4729,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Yes, and again, I apologize because I wish to explain this to those working on the cure. There is a way to fill that last part.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4730,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "The missing piece.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4731,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "A piece was missing?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4732,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "It was. To heal Erin Solstice, I am confident of this: it can be done.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4733,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "YES!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4734,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Hush, child.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4735,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "The process is nearly the same as my rough outline. There are streamlined elements regarding the healing, antidote, and cold spells. I have read the backlog here, and the proposed changes work close to my own solution that is most efficacious in projected trials. I will append my notes. However, one more thing must be present when the cure is administered.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11548,91 +11548,91 @@ export default {
                                 },
                                 {
                                     "id": 4739,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "When you revive Erin Solstice, you will need a particular class.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4740,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "[Priest]? [Priest]!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4741,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "wtf",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4742,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Hm? What\u2019s that?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4743,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "No. Please, let me explain.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4744,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I\u2019m sorry.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4745,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "When you revive her, it isn\u2019t contingent on a powerful healing spell alone. If she truly is dead, she will die even as the healing is being administered.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4746,
-                                    "userId": 38,
+                                    "userId": 8,
                                     "content": "This is exactly what we have observed. Then what do we need?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4747,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "A [General]. You need a [General]. Or a leader, someone with a Skill that boosts and enables warriors and soldiers to fight beyond their limit.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4748,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "!!!",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4749,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Clever.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4750,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Oh.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4751,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Of course. Elegant.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4752,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "I don\u2019t get it. I think I do, but please explain.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4753,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "A [General]. With a Skill that enables someone to survive the shock and trauma of death\u2014hold on for that healing to take place.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11656,139 +11656,139 @@ export default {
                                 },
                                 {
                                     "id": 4757,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "That\u2019s it. The most powerful Skill you can find.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4758,
-                                    "userId": 61,
+                                    "userId": 11,
                                     "content": "You are referring to a phenomenon I have seen on the battlefield.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4759,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Yes. But this will save them, not bring them back. Time. You are buying time. Perhaps even the most grievous injuries can be healed with\u2026time. Another ten seconds. A minute. That\u2019s forever, for us.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4760,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "My [Healers] and [Mages] believe you are right, Doctor Geneva.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4761,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "It makes sense. It\u2014makes sense.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4762,
-                                    "userId": 8,
+                                    "userId": 6,
                                     "content": "Is that it? Is that\u2014I mean, it sounds good, but is that it?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4763,
-                                    "userId": 24,
+                                    "userId": 28,
                                     "content": "That is it. That may be everything. It may change a great deal.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4764,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Yes. Is that what we need? I think I know someone who might be able to help.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4765,
-                                    "userId": 32,
+                                    "userId": 44,
                                     "content": "I do too.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4766,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "I can find someone to help.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4767,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "And I.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4768,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Thank you, Doctor. Thank you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4769,
-                                    "userId": 55,
+                                    "userId": 54,
                                     "content": "Do not thank me yet. I have played a scenario out many, many times via a Skill. The chance is two in three with the best odds I can give her, the best spells and magic and Skills I can envision.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4770,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "She will have the best this world can offer.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4771,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "Thank you.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4772,
-                                    "userId": 33,
+                                    "userId": 23,
                                     "content": "Thank you, Doctor. We will do this. It can be done. A [Shaman] smiles; she thinks you have found something.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4773,
-                                    "userId": 50,
+                                    "userId": 26,
                                     "content": "Something magic alone cannot provide. I agree. She has something. I hope for your success. I will help if I can.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4774,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Yes. If only you have the right ingredients, the potion will come. Magic? You need a good [Mage]. I know one. But the ingredients are missing.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4775,
-                                    "userId": 25,
+                                    "userId": 10,
                                     "content": "Can anyone locate these ethereal-type reagents? Wistram can transport them from around the world. Khelt, I am assured, can pay for them. That is what is missing. The rest is here, is it not? [Mage]?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4776,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "Yes.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4777,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Potion?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4778,
-                                    "userId": 49,
+                                    "userId": 56,
                                     "content": "Done.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4779,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "So just the antidote.",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -11818,97 +11818,97 @@ export default {
                                 },
                                 {
                                     "id": 4784,
-                                    "userId": 20,
+                                    "userId": 30,
                                     "content": "You will get your mushrooms. Alchemist Saliss, expect a delivery into Oteslia with your name on it tomorrow or the day after at the absolute latest. Coordinate with Alchemist I and Witch A regarding the details of the antidote.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4785,
-                                    "userId": 2,
+                                    "userId": 42,
                                     "content": "Wha",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4786,
-                                    "userId": 20,
+                                    "userId": 30,
                                     "content": "Transport will be needed from Oteslia to Liscor. A Courier can be arranged, which I believe Fetohep of Khelt can provide. Funding for all three can also be paid, I take it? Whereupon all that is needed is a spellcaster competent enough to affect the spell and a high-level [Leader]. Magus G may be able to source multiple spellcasters given Pallass\u2019 proximity to the inn. Please contact Chaldion of Pallass regarding a proper [General] or [Officer].",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4787,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "Who is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4788,
-                                    "userId": 20,
+                                    "userId": 30,
                                     "content": "Will Khelt pay a research and production fee for the underlined, as well as transport.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4789,
-                                    "userId": 56,
+                                    "userId": 34,
                                     "content": "By Khelta\u2019s name, it will be done.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4790,
-                                    "userId": 27,
+                                    "userId": 17,
                                     "content": "Witnessed by the Vizir.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4791,
-                                    "userId": 62,
+                                    "userId": 19,
                                     "content": "Who is this?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4792,
-                                    "userId": 9,
+                                    "userId": 35,
                                     "content": "You ignorant child. Guess.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4793,
-                                    "userId": 13,
+                                    "userId": 41,
                                     "content": "It is you?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4794,
-                                    "userId": 20,
+                                    "userId": 30,
                                     "content": "It\u2019s me. Expect the mushrooms immediately. They\u2019re definitely the ones you want. Three dozen.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4795,
-                                    "userId": 66,
+                                    "userId": 65,
                                     "content": "Well done.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4796,
-                                    "userId": 22,
+                                    "userId": 49,
                                     "content": "THAT IS ENOUGH FOR MANY POTIONS. GIVE SOME TO ME. HOW DO YOU HAVE THEM",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4797,
-                                    "userId": 65,
+                                    "userId": 14,
                                     "content": "Could I also obtain some\u2026?",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4798,
-                                    "userId": 3,
+                                    "userId": 59,
                                     "content": "Eat your tail. I\u2019ll make it. Thanks, Tall Guy.",
                                     "time": "Today at 5:17 PM"
                                 },
                                 {
                                     "id": 4799,
-                                    "userId": 16,
+                                    "userId": 64,
                                     "content": "But who is this?",
                                     "time": "Today at 5:17 PM"
                                 },
@@ -12400,9 +12400,7 @@ export default {
                 },
                 {
                     "userId": 6,
-                    "roles": [
-                        12
-                    ]
+                    "roles": []
                 },
                 {
                     "userId": 7,
@@ -12418,7 +12416,9 @@ export default {
                 },
                 {
                     "userId": 10,
-                    "roles": []
+                    "roles": [
+                        12
+                    ]
                 },
                 {
                     "userId": 11,
@@ -12478,9 +12478,7 @@ export default {
                 },
                 {
                     "userId": 25,
-                    "roles": [
-                        12
-                    ]
+                    "roles": []
                 },
                 {
                     "userId": 26,
@@ -12508,7 +12506,9 @@ export default {
                 },
                 {
                     "userId": 32,
-                    "roles": []
+                    "roles": [
+                        12
+                    ]
                 },
                 {
                     "userId": 33,
