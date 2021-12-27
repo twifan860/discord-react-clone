@@ -1,6 +1,6 @@
 {
-  "main.js": "/discord-react-clone/static/js/main.f8d3664b.chunk.js",
-  "main.js.map": "/discord-react-clone/static/js/main.f8d3664b.chunk.js.map",
+  "main.js": "/discord-react-clone/static/js/main.bb766fb9.chunk.js",
+  "main.js.map": "/discord-react-clone/static/js/main.bb766fb9.chunk.js.map",
   "static/css/1.03a46144.chunk.css": "/discord-react-clone/static/css/1.03a46144.chunk.css",
   "static/js/1.69d99dab.chunk.js": "/discord-react-clone/static/js/1.69d99dab.chunk.js",
   "static/js/1.69d99dab.chunk.js.map": "/discord-react-clone/static/js/1.69d99dab.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/searchBarClear.svg": "/discord-react-clone/static/media/searchBarClear.368c9f2c.svg",
   "static/css/1.03a46144.chunk.css.map": "/discord-react-clone/static/css/1.03a46144.chunk.css.map",
   "index.html": "/discord-react-clone/index.html",
-  "precache-manifest.c91153c15dfc5ca305a7e15bc082de06.js": "/discord-react-clone/precache-manifest.c91153c15dfc5ca305a7e15bc082de06.js",
+  "precache-manifest.50a56bb6fab9de6861a8104fc97b143e.js": "/discord-react-clone/precache-manifest.50a56bb6fab9de6861a8104fc97b143e.js",
   "service-worker.js": "/discord-react-clone/service-worker.js"
 }
