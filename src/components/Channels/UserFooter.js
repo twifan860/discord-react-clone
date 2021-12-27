@@ -89,7 +89,7 @@ export default () => {
       <UserAvatar className="avatar-wrapper" avatarUrl={user.avatar} fadeHover />
 
       <div className="content">
-        <div className="username">{user.username}teste</div>
+        <div className="username">{user.username}</div>
         <div className="tag">#{user.tag}</div>
       </div>
 
