@@ -16,6 +16,7 @@ USER_AVATAR = {
     "Belavierr": "https://twifanart.shelter.moe/_images/d036889c6c7d7822f4f504e8f8d71fc7/",
     "Eldavin": "https://twifanart.shelter.moe/_images/32c32fe557c5a58b7ce6ec5a8dca6c4e/",
     "Fetohep": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/",
+    "Fetohep of Khelt": "https://twifanart.shelter.moe/_images/64f8c1f4fce11c8efbbfb3dbbf5c17db/",
     "Geneva": "https://twifanart.shelter.moe/_images/77a32074005ab64aba533ca79eab690a/",
     "Ice Squirrel": "https://twifanart.shelter.moe/_images/9bb5a9cbef2100aac45403f8a65aa9da/",
     "Joseph Ortega": "https://twifanart.shelter.moe/_images/9745e6d3127bdf747e4c9b8cbc0a3967/",
@@ -26,11 +27,20 @@ USER_AVATAR = {
     "RainyEarl": "https://twifanart.shelter.moe/_images/a6c0ced0b75f6e871e24f4e4c9b02199/",
     "Rhis": "https://twifanart.shelter.moe/_images/4c88bda9af1c955707538488e8a91b48/",
     "Saliss": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "Saliss of Lights": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "Not Saliss": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "Sal-iss": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "S.A.L.I.S.S": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "SAAAALIIISSSS": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "THAT DRAKE WITH THE POTIONS": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "NAMED ADVENTURER SALISS": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
+    "SALISS": "https://twifanart.shelter.moe/_images/3c69e220ee2609efd5bd3b4c81126a10/",
     "Tallman": "https://twifanart.shelter.moe/_images/1594286f701d2086b80fff83c63e753c/",
     "True Grit": "https://twifanart.shelter.moe/_images/0d8169da2c0d8d6d8848bb972706a0ea/",
     "Viscount V": "https://twifanart.shelter.moe/_images/9b64e45389429a09892111951ab55658/",
     "Wall Lord Ilvriss": "https://twifanart.shelter.moe/_images/57876dab4e8864df970e0fca5ea1cc17/",
     "Windy Girl": "https://twifanart.shelter.moe/_images/fc0d1224d4967909ecf2d043190d6c53/",
+    "Wistram": "https://twifanart.shelter.moe/_images/56c234dfd5b0f7457bf2a24edb414611/",
     "Witch A": "https://twifanart.shelter.moe/_images/dfa0686baf6f5e78f449fe217713c454/",
     "YlawesB": "https://twifanart.shelter.moe/_images/9c97116d758d356b18395d96b0b32aec/",
     "Yvlon": "https://twifanart.shelter.moe/_images/4355d45ca829b9e0cf994a62c6944690/",
@@ -48,7 +58,8 @@ USER_ROLES = {
 }
 
 # I'm too lazy to fix the actual code
-IGNORED_USERNAME = [
+FALSE_POSITIVE_USERNAME = [
+    "Sariant Lamb fact",
     "The Necromancer barely paid attention to the undead after his harrowing battle with magic that threatened even him. He was also checking in on Pisces, so he did what he had done for a century in life",
     "“Here’s a tip from the Titan of Baleros",
 ]
@@ -57,6 +68,26 @@ IGNORED_USERNAME = [
 ## PREPROCESSING STUFF
 ###############################################################
 
+def splitter(lines):
+    splitted = []
+    for line in lines:
+        line = line.strip()
+        if ":" in line:
+            username, msg = line.split(":", 1)
+            username, msg = username.strip(), msg.strip()
+            if not len(msg) or username in FALSE_POSITIVE_USERNAME:
+                # false positive, not a dialog, so narrator
+                splitted.append(("pirateaba", line))
+            else:
+                splitted.append((username, msg))
+        elif not len(line):
+            # ignore empty line
+            pass
+        else:
+            # not a dialog, so narrator
+            splitted.append(("pirateaba", line))
+    return splitted
+
 def get_user_maps(splitted):
     user_set = set()
     username_map = dict()
@@ -64,14 +95,12 @@ def get_user_maps(splitted):
     for user, val in splitted:
         user_set.add(user.strip())
 
-    for ignore in IGNORED_USERNAME:
-        user_set.remove(ignore)
-
-    # Need something for pirateaba
+    # pirateaba is numero uno
+    user_set.remove("pirateaba")
     username_map["pirateaba"] = 1
     userid_map[1] = "pirateaba"
 
-    # start at 2 because idx=1 is pirateaba
+    # start at 2 because idx=1 is "pirateaba"
     for userid, username in enumerate(user_set, start=2):
         username_map[username] = userid
         userid_map[userid] = username
@@ -80,7 +109,7 @@ def get_user_maps(splitted):
 
 def get_user_json(username, userid):
     # dummy account, who is viewing the discord
-    PIRATEABA = {
+    PIRATEABA_JSON = {
         "id": 1,
         "username": "pirateaba",
         "tag": 1877,
@@ -93,7 +122,7 @@ def get_user_json(username, userid):
     }
 
     if username == "pirateaba":
-        return PIRATEABA
+        return PIRATEABA_JSON
 
     return {
         "id": userid,
@@ -122,7 +151,7 @@ def get_single_msg(username, msg, username_map):
     }
 
 def get_all_messages(splitted, username_map):
-    return [get_single_msg(username, msg, username_map) for username, msg in splitted if username not in IGNORED_USERNAME]
+    return [get_single_msg(username, msg, username_map) for username, msg in splitted if username not in FALSE_POSITIVE_USERNAME]
     
 
 def overall_json(splitted, username_map):
@@ -171,12 +200,7 @@ def overall_json(splitted, username_map):
 
 with open(FILENAME) as f:
     lines = f.readlines()
-    # Remove all lines that aren't chat
-    filtered = filter(lambda line: ":" in line, lines)
-    # split into username, text
-    splitted = map(lambda line: line.split(":", 1), filtered)
-    splitted = list(splitted)
-    IGNORED_USERNAME += [username for username, msg in splitted if not len(msg.strip())]
+    splitted = splitter(lines)
     # first pass - get user list
     username_map, userid_map = get_user_maps(splitted)
     json_content = json.dumps(overall_json(splitted, username_map), sort_keys=True, indent=4)
